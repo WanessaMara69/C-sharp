@@ -1,0 +1,14 @@
+/home/e06163755/Documentos/Calculator/bin/Debug/net8.0/Calculator
+/home/e06163755/Documentos/Calculator/bin/Debug/net8.0/Calculator.deps.json
+/home/e06163755/Documentos/Calculator/bin/Debug/net8.0/Calculator.runtimeconfig.json
+/home/e06163755/Documentos/Calculator/bin/Debug/net8.0/Calculator.dll
+/home/e06163755/Documentos/Calculator/bin/Debug/net8.0/Calculator.pdb
+/home/e06163755/Documentos/Calculator/obj/Debug/net8.0/Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/home/e06163755/Documentos/Calculator/obj/Debug/net8.0/Calculator.AssemblyInfoInputs.cache
+/home/e06163755/Documentos/Calculator/obj/Debug/net8.0/Calculator.AssemblyInfo.cs
+/home/e06163755/Documentos/Calculator/obj/Debug/net8.0/Calculator.csproj.CoreCompileInputs.cache
+/home/e06163755/Documentos/Calculator/obj/Debug/net8.0/Calculator.dll
+/home/e06163755/Documentos/Calculator/obj/Debug/net8.0/refint/Calculator.dll
+/home/e06163755/Documentos/Calculator/obj/Debug/net8.0/Calculator.pdb
+/home/e06163755/Documentos/Calculator/obj/Debug/net8.0/Calculator.genruntimeconfig.cache
+/home/e06163755/Documentos/Calculator/obj/Debug/net8.0/ref/Calculator.dll
