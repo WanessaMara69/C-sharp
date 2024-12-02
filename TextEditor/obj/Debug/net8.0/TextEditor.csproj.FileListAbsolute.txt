@@ -1,0 +1,14 @@
+/home/e06163755/Documentos/TextEditor/bin/Debug/net8.0/TextEditor
+/home/e06163755/Documentos/TextEditor/bin/Debug/net8.0/TextEditor.deps.json
+/home/e06163755/Documentos/TextEditor/bin/Debug/net8.0/TextEditor.runtimeconfig.json
+/home/e06163755/Documentos/TextEditor/bin/Debug/net8.0/TextEditor.dll
+/home/e06163755/Documentos/TextEditor/bin/Debug/net8.0/TextEditor.pdb
+/home/e06163755/Documentos/TextEditor/obj/Debug/net8.0/TextEditor.GeneratedMSBuildEditorConfig.editorconfig
+/home/e06163755/Documentos/TextEditor/obj/Debug/net8.0/TextEditor.AssemblyInfoInputs.cache
+/home/e06163755/Documentos/TextEditor/obj/Debug/net8.0/TextEditor.AssemblyInfo.cs
+/home/e06163755/Documentos/TextEditor/obj/Debug/net8.0/TextEditor.csproj.CoreCompileInputs.cache
+/home/e06163755/Documentos/TextEditor/obj/Debug/net8.0/TextEditor.dll
+/home/e06163755/Documentos/TextEditor/obj/Debug/net8.0/refint/TextEditor.dll
+/home/e06163755/Documentos/TextEditor/obj/Debug/net8.0/TextEditor.pdb
+/home/e06163755/Documentos/TextEditor/obj/Debug/net8.0/TextEditor.genruntimeconfig.cache
+/home/e06163755/Documentos/TextEditor/obj/Debug/net8.0/ref/TextEditor.dll
