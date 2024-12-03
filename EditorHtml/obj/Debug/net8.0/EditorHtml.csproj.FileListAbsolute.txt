@@ -1,0 +1,14 @@
+/home/e06163755/Documentos/EditorHtml/bin/Debug/net8.0/EditorHtml
+/home/e06163755/Documentos/EditorHtml/bin/Debug/net8.0/EditorHtml.deps.json
+/home/e06163755/Documentos/EditorHtml/bin/Debug/net8.0/EditorHtml.runtimeconfig.json
+/home/e06163755/Documentos/EditorHtml/bin/Debug/net8.0/EditorHtml.dll
+/home/e06163755/Documentos/EditorHtml/bin/Debug/net8.0/EditorHtml.pdb
+/home/e06163755/Documentos/EditorHtml/obj/Debug/net8.0/EditorHtml.GeneratedMSBuildEditorConfig.editorconfig
+/home/e06163755/Documentos/EditorHtml/obj/Debug/net8.0/EditorHtml.AssemblyInfoInputs.cache
+/home/e06163755/Documentos/EditorHtml/obj/Debug/net8.0/EditorHtml.AssemblyInfo.cs
+/home/e06163755/Documentos/EditorHtml/obj/Debug/net8.0/EditorHtml.csproj.CoreCompileInputs.cache
+/home/e06163755/Documentos/EditorHtml/obj/Debug/net8.0/EditorHtml.dll
+/home/e06163755/Documentos/EditorHtml/obj/Debug/net8.0/refint/EditorHtml.dll
+/home/e06163755/Documentos/EditorHtml/obj/Debug/net8.0/EditorHtml.pdb
+/home/e06163755/Documentos/EditorHtml/obj/Debug/net8.0/EditorHtml.genruntimeconfig.cache
+/home/e06163755/Documentos/EditorHtml/obj/Debug/net8.0/ref/EditorHtml.dll
