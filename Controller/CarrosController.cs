@@ -1,4 +1,3 @@
-using System;
 using ApiCarro.Models;
 using Microsoft.AspNetCore.Mvc;
 
